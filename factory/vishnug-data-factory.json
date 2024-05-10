@@ -1,0 +1,9 @@
+{
+	"name": "vishnug-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec5e51e2-72d4-4db0-b52a-7bee91f261cb",
+		"tenantId": "35805b24-4e32-4d4e-864d-1cea39bcf0d3"
+	}
+}
